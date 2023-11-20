@@ -1,0 +1,48 @@
+.custom-navbar-bg {
+    background-color: #1A187A;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+.custom-carousel {
+    background-color: #ADC2D7;
+}
+
+.shop-now {
+    background-color: #171495;
+    padding: 10px;
+    color: white;
+}
+
+.logo-id{
+    color: white;
+}
+
+.custom-section {
+    background-color: #958AD4;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.highlighted-text {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.footer-heading {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.footer-links li {
+    list-style: none;
+}
+
+@media only screen and (max-width:480px) {
+    .custom-mac-air {
+        flex-direction: column-reverse;
+    }
+}
